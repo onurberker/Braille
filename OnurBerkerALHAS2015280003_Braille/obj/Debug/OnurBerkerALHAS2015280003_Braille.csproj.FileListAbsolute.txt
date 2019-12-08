@@ -1,0 +1,9 @@
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\bin\Debug\OnurBerkerALHAS2015280003_Braille.exe.config
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\bin\Debug\OnurBerkerALHAS2015280003_Braille.exe
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\bin\Debug\OnurBerkerALHAS2015280003_Braille.pdb
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.csprojResolveAssemblyReference.cache
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.Form1.resources
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.Properties.Resources.resources
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.csproj.GenerateResource.Cache
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.exe
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS2015280003_Braille\OnurBerkerALHAS2015280003_Braille\obj\Debug\OnurBerkerALHAS2015280003_Braille.pdb
